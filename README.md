@@ -1,1 +1,1 @@
-# mui-datatable-server-side-pagination-example
+# MUI Datatable Server side Pagination Example
